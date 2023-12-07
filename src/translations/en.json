@@ -1,0 +1,12 @@
+{
+        "List": "List",
+        "Goods": "Goods",
+        "EmptyProductsList": "The list of products are still empty",
+        "EmptyGoodsList": "The list of goods are still empty",
+        "ChangeTheme": "Change Theme",
+        "ChangeLang": "Change Lang",
+        "Settings": "Settings",
+        "ListDetails": "ListDetails",
+        "DarkTheme": "DarkTheme",
+        "LightTheme": "LightTheme"
+}
